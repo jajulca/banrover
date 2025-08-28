@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -197,7 +197,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="287"></int>
+                  <int value="294"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -211,7 +211,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="3_132_2.1"></unicode>
+                <unicode value="3_132_2.2"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -222,7 +222,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo_ban_rover.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/logo_ban_rover.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/logo_ban_rover.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="293b8326bbc61af12f3e18a6fb41fcd4"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -251,7 +251,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="2"></int>
+           <int value="3"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -410,7 +410,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="285"></int>
+                     <int value="292"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -424,7 +424,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="4_133_2.1"></unicode>
+                   <unicode value="4_133_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -435,7 +435,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="BAN_ROVER.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/BAN_ROVER.png"></string>
+                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/BAN_ROVER.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="b4a497df3851f38cc27bce6bdae42909"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -464,7 +464,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -759,7 +759,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="282"></int>
+                     <int value="289"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -773,7 +773,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_135_2.5"></unicode>
+                   <unicode value="6_135_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="15">
                     <dictionary>
@@ -784,7 +784,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="microbit.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/microbit.png"></string>
+                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/microbit.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="a96c843721f9bde8e9edce84b7cf8201"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -811,7 +811,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="283"></int>
+                     <int value="290"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -825,7 +825,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_135_2.6"></unicode>
+                   <unicode value="6_135_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -836,7 +836,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="bateria_9v.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bateria_9v.jpg"></string>
+                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bateria_9v.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="07e7eac2cc1dbda34eaad5d35ad1eb94"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -863,7 +863,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="284"></int>
+                     <int value="291"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -877,7 +877,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_135_2.7"></unicode>
+                   <unicode value="6_135_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -888,7 +888,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="placaks0308.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/placaks0308.png"></string>
+                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/placaks0308.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="911cc5eea8bdbc8a40471def3e1ec200"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -915,7 +915,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="286"></int>
+                     <int value="293"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -929,7 +929,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_135_2.8"></unicode>
+                   <unicode value="6_135_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -940,7 +940,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="motores_cc.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/motores_cc.jpg"></string>
+                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/motores_cc.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e62e5c8f6e973c46ab809f2e47ab15e9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -967,7 +967,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="288"></int>
+                     <int value="295"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -981,7 +981,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_135_2.9"></unicode>
+                   <unicode value="6_135_2.14"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -992,7 +992,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="conector-clip-pila-9v.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/conector-clip-pila-9v.jpg"></string>
+                     <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/conector-clip-pila-9v.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9a30157b68ae116d34fdb27c9255b844"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1021,7 +1021,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="10"></int>
+              <int value="15"></int>
               <string role="key" value="parentNode"></string>
               <reference key="14"></reference>
              </dictionary>
@@ -1207,7 +1207,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="CADENAS .stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/CADENAS .stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/CADENAS .stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="c5eff9b438d7bcea73351721a2ed6fcd"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1265,7 +1265,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="RUEDAS DELANTERAS.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/RUEDAS DELANTERAS.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/RUEDAS DELANTERAS.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="207efb380587dc881977ebeccc74d269"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1323,7 +1323,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="RUEDA MOTOR CC.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/RUEDA MOTOR CC.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/RUEDA MOTOR CC.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="6ddc33f07d987f7a9708a04afc914c7d"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1381,7 +1381,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Soporte motor CC.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/Soporte motor CC.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/Soporte motor CC.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="c460212dbb6155182943fb38dc991151"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1439,7 +1439,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="SOPORTE RUEDAS DELANTERAS.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/SOPORTE RUEDAS DELANTERAS.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/SOPORTE RUEDAS DELANTERAS.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="0de11d36310a48cd99c1db8fbb4ecee2"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1497,7 +1497,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Pieza de 4.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/Pieza de 4.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/Pieza de 4.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="1ea2073b5dd71c206e6f7df6d76b36cb"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1555,7 +1555,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Pieza de 8.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/Pieza de 8.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/Pieza de 8.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="848c0d976a65e38f98c5586ca3ad303b"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1613,7 +1613,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="Soporte pila.stl"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/Soporte pila.stl"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/Soporte pila.stl"></string>
                 <string role="key" value="checksum"></string>
                 <string value="e7dd87de8b3921ecda9532d23d1872f9"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1824,7 +1824,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="microbit-emisor_radio_oruga-CC.hex"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/microbit-emisor_radio_oruga-CC.hex"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/microbit-emisor_radio_oruga-CC.hex"></string>
                 <string role="key" value="checksum"></string>
                 <string value="a9264e1964333bbe74abb7f5197bdc3f"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1882,7 +1882,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="microbit-receptor_radio_oruga-CC.hex"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/microbit-receptor_radio_oruga-CC.hex"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/microbit-receptor_radio_oruga-CC.hex"></string>
                 <string role="key" value="checksum"></string>
                 <string value="25633a66ccf7e1935d315654a1c0d6cc"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1940,7 +1940,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="programas.zip"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/programas.zip"></string>
+                <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/programas.zip"></string>
                 <string role="key" value="checksum"></string>
                 <string value="92bedbc7fe76f84fa6051f4ee2e77767"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2150,7 +2150,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="BAN_ROVER.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/BAN_ROVER.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/BAN_ROVER.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="b4a497df3851f38cc27bce6bdae42909"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2173,7 +2173,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="BAN_ROVERThumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/BAN_ROVERThumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/BAN_ROVERThumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="3884f6c69341bc15b5f3470020e50c62"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2226,7 +2226,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu11.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu11.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu11.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="e0d28620257b84a8fdd994189cba20e5"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2249,7 +2249,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu11Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu11Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu11Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="c747a8f01f761c13f21d1d9afca1f831"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2302,7 +2302,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu9.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu9.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu9.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="f9759e8e88fbe08ecf8e4324e2b344e4"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2325,7 +2325,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu9Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu9Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu9Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="9f70abc18bda41947c2ead067c53f1f4"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2378,7 +2378,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu14.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu14.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu14.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cedf607fbccc374b812c0a7bec70d36"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2401,7 +2401,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu14Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu14Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu14Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="9449f88bb468431b8e4f8f9469e56e8e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2454,7 +2454,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu3.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu3.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu3.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="ac9a3b3bd3a45a8a5e1d943fb4b72cf4"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2477,7 +2477,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu3Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu3Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu3Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="0471e1560d6c4ae6d0b1fcb1a29121e0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2530,7 +2530,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu4.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu4.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu4.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="9388c193e29fd5343e680d7d4ab6b1f3"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2553,7 +2553,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu4Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu4Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu4Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="1d7053302e28b9b79d74624dce913001"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2606,7 +2606,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu8.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu8.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu8.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="4026e7829a60f8711dc5bf2f859be7bc"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2629,7 +2629,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu8Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu8Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu8Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="3dae5c369f16db2561892f032f2dc638"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2682,7 +2682,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu5.JPG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu5.JPG"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu5.JPG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="b7294d9c6f6cd30411880686fd8c6635"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2705,7 +2705,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                   <string role="key" value="_storageName"></string>
                   <string value="bambu5Thumbnail.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu5Thumbnail.png"></string>
+                  <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu5Thumbnail.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="f0527774b5ca916cc7a8e166976b8ee0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2832,7 +2832,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
               <string role="key" value="_storageName"></string>
               <string value="bambu9.JPG"></string>
               <string role="key" value="_userName"></string>
-              <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu9.JPG"></string>
+              <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu9.JPG"></string>
               <string role="key" value="checksum"></string>
               <string value="f9759e8e88fbe08ecf8e4324e2b344e4"></string>
               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2855,7 +2855,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
               <string role="key" value="_storageName"></string>
               <string value="bambu9Thumbnail.png"></string>
               <string role="key" value="_userName"></string>
-              <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmp1uOSfh/bambu9Thumbnail.png"></string>
+              <string value="/var/folders/r0/9ctw8hqj3gz6ykj33x4hb4tr0000gn/T/tmpA8EXvM/bambu9Thumbnail.png"></string>
               <string role="key" value="checksum"></string>
               <string value="9f70abc18bda41947c2ead067c53f1f4"></string>
               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3092,7 +3092,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="31"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
